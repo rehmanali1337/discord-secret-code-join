@@ -1,0 +1,4 @@
+colorama==0.4.4
+discord.py==2.0.0
+sqlitedict==2.0.0
+uvloop==0.16.0
